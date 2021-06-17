@@ -1,0 +1,16 @@
+{
+  "name": "report-pokedex-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"(async () => console.log(await require('./index').handler({})))();\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.927.0",
+    "pdfkit": "^0.12.1"
+  }
+}
