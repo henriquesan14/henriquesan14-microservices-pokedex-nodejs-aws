@@ -26,7 +26,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+Também é preciso configurar as váriaveis de ambiente no arquivo conforme o exemplo no arquivo .env.example .
 
 ### 🎲 Rodando o Back End (servidor)
 
